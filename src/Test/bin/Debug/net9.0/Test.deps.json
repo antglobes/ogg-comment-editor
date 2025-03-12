@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Test/1.0.0": {
+        "dependencies": {
+          "System.Text.Encoding.CodePages": "9.0.2"
+        },
+        "runtime": {
+          "Test.dll": {}
+        }
+      },
+      "System.Text.Encoding.CodePages/9.0.2": {}
+    }
+  },
+  "libraries": {
+    "Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Text.Encoding.CodePages/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C52wMwwMvNUDTliAmQdgvX57nHTaOGKwfFSn3KRgMHbAdZlhxrJt6CV/IMz9h02BL5tHNf/0j6lS9By4te9nTA==",
+      "path": "system.text.encoding.codepages/9.0.2",
+      "hashPath": "system.text.encoding.codepages.9.0.2.nupkg.sha512"
+    }
+  }
+}
